@@ -1,5 +1,4 @@
 
-import './App.css';
 import ClockiFyCard from './components/clockifycard/ClockiFyCard';
 import Dashboard from './components/dashboard/Dashboard';
 import HeroSection from './components/hero/HeroSection';
